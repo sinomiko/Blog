@@ -1,0 +1,79 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(20/05/2016) - Update - Version 2.0.2
+
+[*] Updated the list of available Google fonts.
+[*] Fixed CSS conflict with All-in-One Event Calendar (floating of event details in single event view).
+[*] Changed Support and Get Premium links.
+
+----
+
+(09/03/2016) - Update - Version 2.0.1
+
+[+] Added ability to select Character Set in the Theme Customizer.
+[*] Improved styling of the Contact Information panel on mobile devices.
+[*] Removed platform specific styling to form elements by setting -webkit-appearance and -moz-appearance to "none".
+
+----
+
+(13/11/2015) - Update - Version 2.0.0
+
+[*] Moved custom Theme Options to the Customizer API.
+[*] Updated the TGM Plugin Activation to the version 2.5.2.
+[x] Removed Favicon option as it is a core option since WordPress 4.3.
+[!] Fixed problem with floating of the Reply form in the Comments section.
+
+----
+
+(04/08/2015) - Update - Version 1.0.5
+
+[+] Added Danish translation.
+[*] Updated Czech translation.
+[*] Updated the list of available Google fonts (corrected nonfunctional fonts).
+[*] Updated sidebar.php (added condition "is_active_sidebar" so the #sidebar element does not show if there isn't any widget in the Right Sidebar widget area).
+
+----
+
+(19/03/2015) - Update - Version 1.0.4
+
+[+] Added Greek translation.
+[+] Added support for the "pingback" link in <head> section.
+[+] Added unminified version of the Placeholders.js script.
+[*] Updated Placeholders.js script to the version 3.0.2.
+[*] Updated Spanish translation.
+
+----
+
+(30/01/2015) - Update - Version 1.0.3
+
+[+] Added Dutch translation.
+[+] Added ability to use the "nextpage" tag on pages.
+
+----
+
+(06/01/2015) - Update - Version 1.0.2
+
+[+] Added support for the Title Tag feature.
+[*] Updated paginate_links() arguments (added "add_args").
+[*] Updated the "viewport" meta tag.
+
+----
+
+(22/12/2014) - Update - Version 1.0.1
+
+[+] Added Italian translation.
+[*] Updated German translation.
+[*] Updated including of the TGM_Plugin_Activation class (only the users who are allowed to install plugins can see it now).
+
+----
+
+(23/10/2014) - The initial public release - Version 1.0.0
