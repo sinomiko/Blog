@@ -2,4 +2,4 @@
 
 ---
 ##
-  miko's private wordpess blog
+  miko's private blog based on wordpress
